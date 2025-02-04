@@ -1,0 +1,16 @@
+[
+    {
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "address": "socks5.us-cal-la-01.vendor.com:1080"
+    },
+    {
+        "country": "DE",
+        "state": "Berlin",
+        "city": "Berlin",
+        "zipcode": "10115",
+        "address": "socks5.de-be-01.vendor.com:1080"
+    }
+]
